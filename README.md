@@ -1,53 +1,126 @@
+<!--
+  ⚠️ BEFORE PUBLISHING:
+  1. Replace all instances of "USERNAME" below with your actual GitHub username
+     (needed for the stats widgets to work).
+  2. Update the LinkedIn / Email / Instagram links in the "Connect" section.
+  3. Rename this repo to your GitHub username (e.g. "AbdiNugroho") and put this
+     file as README.md — GitHub will auto-render it on your profile page.
+-->
+
 <div align="center">
 
-<!-- Banner Header Retro -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=181623&height=180&section=header&text=Hi%20there,%20I'm%20Devtective%20👾&fontSize=32&fontColor=7D8CC4&animation=twinkle" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdi+%F0%9F%91%8B;Loading+Web+Dev+Skills...;Fedora+%2B+COSMIC+Enthusiast;First+Principles+%2B+AI-Assisted+Learning" alt="Typing SVG" />
 
-<!-- GIF Pixel Animasi (Bisa diganti URL GIF pixel favoritmu) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYyc2IxeGxsZ2RwNDIzaXpuaXlyOGFvdGNxNDBsNzM4YXVzc202MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR1v8kY8aJ2L3aM/giphy.gif" width="280" />
+<br>
 
-### 🕹️ Information Systems Student | Web & Automation Developer | Linux Enjoyer
+![Status](https://img.shields.io/badge/Status-Student-2ECC71?style=for-the-badge)
+![Semester](https://img.shields.io/badge/Semester-7-3498DB?style=for-the-badge)
+![University](https://img.shields.io/badge/UIN%20Raden%20Fatah-Palembang-8E44AD?style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-Fedora%20%2B%20COSMIC-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 
 </div>
 
----
+<br>
 
-### ⚔️ Equipment / Tech Stack
+## 🕹️ Player Profile
 
-<div align="center">
+| | |
+|---|---|
+| **Name** | M. Abdi Nugroho |
+| **Class** | Web Developer *(in training)* |
+| **Guild** | Sistem Informasi — UIN Raden Fatah Palembang |
+| **Level** | Semester 7 |
+| **Operating System** | Fedora Linux + COSMIC Desktop 🐧 |
+| **Playstyle** | First Principles thinking, AI-assisted grinding ⚡ |
 
-<!-- Badges Tech Stack -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+<br>
+
+## 📖 Backstory
+
+I'm an Information Systems student with a growing focus on **web development**. I like taking things apart to understand how they *actually* work rather than just memorizing steps — usually starting from first principles and using AI as an accelerant to learn faster, not as a shortcut to skip understanding.
+
+Outside of code: I read, watch anime, and game in my free time. I'm a Linux enthusiast running **Fedora + COSMIC**, and I genuinely enjoy tinkering with anything that sparks curiosity, whether it's related to my major or not.
+
+<br>
+
+## 🧭 Current Quest Log
+
+*What I'm actively leveling up right now:*
+
+![QA](https://img.shields.io/badge/Learning-QA%20%2F%20Testing-FFA500?style=for-the-badge)
+![LLM](https://img.shields.io/badge/Learning-LLM-9B59B6?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Learning-Cyber%20Security-E74C3C?style=for-the-badge)
+![Digital Forensics](https://img.shields.io/badge/Learning-Digital%20Forensics-2C3E50?style=for-the-badge)
+
+<br>
+
+## 🎒 Inventory (Tech Stack)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
+<br>
 
----
+## 🛠️ Side Crafting
 
-### 📊 Pixel Quest Stats
+```
+   ██████╗ ██╗██╗  ██╗███████╗██╗              █████╗ ██████╗ ████████╗
+   ██╔══██╗██║╚██╗██╔╝██╔════╝██║             ██╔══██╗██╔══██╗╚══██╔══╝
+   ██████╔╝██║ ╚███╔╝ █████╗  ██║             ███████║██████╔╝   ██║
+   ██╔═══╝ ██║ ██╔██╗ ██╔══╝  ██║             ██╔══██║██╔══██╗   ██║
+   ██║     ██║██╔╝ ██╗███████╗███████╗        ██║  ██║██║  ██║   ██║
+   ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝        ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
+```
+
+For fun, I dabble in **pixel art** — and instead of paying for Aseprite, I compiled it from source myself. Small win, but a satisfying one. 🎨
+
+<br>
+
+## 🧠 Character Traits
+
+- 🔹 Introvert
+- 🔹 Perfectionist
+- 🔹 Needs a **clean, tidy workspace** to actually focus
+- 🔹 Struggles to concentrate in noisy / chaotic environments
+- 🔹 Certified pixel art enthusiast
+
+<br>
+
+## 🗺️ Projects
+
+> 🚧 **Under construction** — currently building things worth showing.
+> Check back soon, updates incoming!
+
+<br>
+
+## 📊 Stats
 
 <div align="center">
 
-<!-- GitHub Stats Card dengan Palette Risk of Rain/Deep Space -->
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_MU&show_icons=true&bg_color=181623&text_color=e6e6fa&title_color=7d8cc4&icon_color=7d8cc4&border_color=342f4b&hide_border=false" height="165" />
+![Abdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true)
 
-<!-- Streak Stats Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_MU&background=181623&stroke=342f4b&state=e6e6fa&fire=7d8cc4&ring=7d8cc4&currStreakNum=e6e6fa&border=342f4b" height="165" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=github-dark-blue&hide_border=true)
 
 </div>
 
----
+<br>
 
-### ☕ Support The Journey
+## 📡 Connect
 
 <div align="center">
 
-<a href="https://ko-fi.com" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+
+</div>
+
+<div align="center">
+
+*"Powered by curiosity, coffee, and a clean workspace."* ☕
 
 </div>
