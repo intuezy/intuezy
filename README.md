@@ -9,13 +9,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdi+%F0%9F%91%8B;Loading+Web+Dev+Skills...;Fedora+%2B+COSMIC+Enthusiast;First+Principles+%2B+AI-Assisted+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&height=30&lines=Hi%2C+I'm+Abdi+%F0%9F%91%8B;Fedora+%2B+COSMIC+user;First+Principles+learner" alt="Typing SVG" />
 
 <br>
 
 ![Status](https://img.shields.io/badge/Status-Student-2ECC71?style=for-the-badge)
 ![Semester](https://img.shields.io/badge/Semester-7-3498DB?style=for-the-badge)
 ![University](https://img.shields.io/badge/UIN%20Raden%20Fatah-Palembang-8E44AD?style=for-the-badge)
+
 ![OS](https://img.shields.io/badge/OS-Fedora%20%2B%20COSMIC-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 
 </div>
